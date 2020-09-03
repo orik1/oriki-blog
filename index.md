@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到 oriki 的 Pages
 
-You can use the [editor on GitHub](https://github.com/orik1/oriki-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是 oriki 的 Pages。主要用途是记录整理之后的学习内容、记录一些事情、发表某些看法的一个地方。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎通过 `view Github` 按钮查看。
 
-### Markdown
+内容使用 typora 编写，会用到其中内置的很多特性。遇到行文不明白或者没有图片或者公式不完整的时候，请用 typora 打开。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2020-09-03 at 东莞农村商业银行总部
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orik1/oriki-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
